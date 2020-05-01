@@ -1,0 +1,4 @@
+// Search ID for employee 
+Selcet First_Name Last_Name, Phone_Number
+From Employye e 
+Where e.Emplyee_ID = 'values '
