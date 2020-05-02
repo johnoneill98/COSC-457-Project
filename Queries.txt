@@ -3,5 +3,18 @@ Selcet First_Name Last_Name, Phone_Number
 From Employye e 
 Where e.Emplyee_ID = 'values '
 
+//See the Employyee in order by order ID 
+Select *
+From Emplyeee 
+Order By Empolyee_ID
 
+//See each Emplyee in each department 
+Select *
+From Employee 
+Order By User_Location_ID
 
+//see emplyees that live in Maryland
+
+Select * 
+From Employyee 
+Where Phone_number like '443#' or Phone_number like '410#';
